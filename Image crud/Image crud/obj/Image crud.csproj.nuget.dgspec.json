@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Image crud\\Image crud\\Image crud.csproj": {}
+    "D:\\Image-Uploading-with-netCore\\Image crud\\Image crud\\Image crud.csproj": {}
   },
   "projects": {
-    "D:\\Image crud\\Image crud\\Image crud.csproj": {
+    "D:\\Image-Uploading-with-netCore\\Image crud\\Image crud\\Image crud.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Image crud\\Image crud\\Image crud.csproj",
+        "projectUniqueName": "D:\\Image-Uploading-with-netCore\\Image crud\\Image crud\\Image crud.csproj",
         "projectName": "Image crud",
-        "projectPath": "D:\\Image crud\\Image crud\\Image crud.csproj",
+        "projectPath": "D:\\Image-Uploading-with-netCore\\Image crud\\Image crud\\Image crud.csproj",
         "packagesPath": "C:\\Users\\Muhammad Ibrahim\\.nuget\\packages\\",
-        "outputPath": "D:\\Image crud\\Image crud\\obj\\",
+        "outputPath": "D:\\Image-Uploading-with-netCore\\Image crud\\Image crud\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

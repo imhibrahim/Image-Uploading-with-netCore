@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "rYdpa3YHb2vABuFXu11a7iKRILvHrNcR8vrw+TE1ZdPrxshIf/uBI+q6u575UTKkwHtZTI5NkRs6Y2/CSfMkmA==",
+  "dgSpecHash": "e0LfQHhPy8pVOmZXyPEPck/DHJiV8eWl78YSypmuPDWm3FhcEGNCMh2chA1CGm0X8hZJF7yMFXM+SXhuQlGIJw==",
   "success": true,
-  "projectFilePath": "D:\\Image crud\\Image crud\\Image crud.csproj",
+  "projectFilePath": "D:\\Image-Uploading-with-netCore\\Image crud\\Image crud\\Image crud.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Muhammad Ibrahim\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",
     "C:\\Users\\Muhammad Ibrahim\\.nuget\\packages\\azure.identity\\1.10.3\\azure.identity.1.10.3.nupkg.sha512",

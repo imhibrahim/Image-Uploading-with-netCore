@@ -21,6 +21,10 @@ namespace Image_crud.Controllers
         {
             return View();
         }
+        public IActionResult editProduct()
+        {
+            return View();
+        }
 
         [HttpPost]
         public IActionResult AddProduct(ProductViewModel prod)
